@@ -17,7 +17,7 @@ public class GameSetup : MonoBehaviour
 		{
 	
 		}
-
+	
 
 		void OnGUI ()
 		{
@@ -30,10 +30,10 @@ public class GameSetup : MonoBehaviour
 		
 				if (GUI.Button (pos, "Play Game")) {
 						buttonState = true;
+						Debug.Log ("Clicked the play game button");
 				}
 				pos.y += 30;
+				
 		
-				textFieldState = GUI.TextField (pos, textFieldState);
-				pos.y += 30;
 		}
 }
