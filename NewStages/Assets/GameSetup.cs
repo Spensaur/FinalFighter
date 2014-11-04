@@ -57,50 +57,42 @@ public class GameSetup : MonoBehaviour
 				switch (selectedLevel) {
 				case 1:
 						levelNameString = "Green Hills";
+
 						break;
 				case 2:
 						levelNameString = "Windows Extreme";
+
 						break;
 				case 3:
 						levelNameString = "Spooky Meadow";
+
 						break;
 				default:
 						levelNameString = "none";
+						
 						break;
 				}
 				GUI.Label (pos, "Selected level: " + levelNameString + "!");
+				
+				
+				pos.x += 500;
+				pos.width = 100;
+				
+				
+				if (GUI.Button (pos, "Click to play!")) {
+						print ("Got a click");
+						switch (levelNameString) {
+						case "Green Hills":
+								Application.LoadLevel ("MarioLevel");
+								break;
+						case "Windows Extreme":
+								Application.LoadLevel ("DesktopLevel");
+								break;
+						default:
+								break;
+						}
+				}
+				
 		}
-		
-		
-		
-//				int xOffset = (Screen.width - 150) / 2;
-//				int yOffset = (Screen.height / 2) + 50;
-//				Rect pos = new Rect (xOffset, yOffset, 150, 20);
-//				Rect windowRect = new Rect (xOffset, yOffset, 120, 50);
-//				pos.y += 30;
-//		
-//				if (buttonState) {
-//						if (GUI.Button (pos, "Play Game")) {
-//				
-//								Debug.Log ("Clicked the play game button");
-//								windowRect = GUI.Window (0, windowRect, DoMyWindow, "MyWindow");
-//							
-//								pos.y += 50;
-//								pos.height = 350;
-//								GUI.Box (pos, "");
-//				
-//						}
-//						pos.y += 30;
-//				}
-//				
-//				
-//		
-//		}
-//		
-//		void DoMyWindow(int windowID) {
-//		if (GUI.Button(new Rect(10, 20, 100, 20), "Hello World"))
-//			print("Got a click");
-//		
-//	}
-		
+	
 }
