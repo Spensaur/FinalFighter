@@ -1,0 +1,1081 @@
+fileFormatVersion: 2
+guid: a762630831e06fb4087329b489f7df82
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman change view to 2d_0
+    21300002: megaman change view to 2d_1
+    21300004: megaman change view to 2d_2
+    21300006: megaman change view to 2d_3
+    21300008: megaman change view to 2d_4
+    21300010: megaman change view to 2d_5
+    21300012: megaman change view to 2d_6
+    21300014: megaman change view to 2d_7
+    21300016: megaman change view to 2d_8
+    21300018: megaman change view to 2d_9
+    21300020: megaman change view to 2d_10
+    21300022: megaman change view to 2d_11
+    21300024: megaman change view to 2d_12
+    21300026: megaman change view to 2d_13
+    21300028: megaman change view to 2d_14
+    21300030: megaman change view to 2d_15
+    21300032: megaman change view to 2d_16
+    21300034: megaman change view to 2d_17
+    21300036: megaman change view to 2d_18
+    21300038: megaman change view to 2d_19
+    21300040: megaman change view to 2d_20
+    21300042: megaman change view to 2d_21
+    21300044: megaman change view to 2d_22
+    21300046: megaman change view to 2d_23
+    21300048: megaman change view to 2d_24
+    21300050: megaman change view to 2d_25
+    21300052: megaman change view to 2d_26
+    21300054: megaman change view to 2d_27
+    21300056: megaman change view to 2d_28
+    21300058: megaman change view to 2d_29
+    21300060: megaman change view to 2d_30
+    21300062: megaman change view to 2d_31
+    21300064: megaman change view to 2d_32
+    21300066: megaman change view to 2d_33
+    21300068: megaman change view to 2d_34
+    21300070: megaman change view to 2d_35
+    21300072: megaman change view to 2d_36
+    21300074: megaman change view to 2d_37
+    21300076: megaman change view to 2d_38
+    21300078: megaman change view to 2d_39
+    21300080: megaman change view to 2d_40
+    21300082: megaman change view to 2d_41
+    21300084: megaman change view to 2d_42
+    21300086: megaman change view to 2d_43
+    21300088: megaman change view to 2d_44
+    21300090: megaman change view to 2d_45
+    21300092: megaman change view to 2d_46
+    21300094: megaman change view to 2d_47
+    21300096: megaman change view to 2d_48
+    21300098: megaman change view to 2d_49
+    21300100: megaman change view to 2d_50
+    21300102: megaman change view to 2d_51
+    21300104: megaman change view to 2d_52
+    21300106: megaman change view to 2d_53
+    21300108: megaman change view to 2d_54
+    21300110: megaman change view to 2d_55
+    21300112: megaman change view to 2d_56
+    21300114: megaman change view to 2d_57
+    21300116: megaman change view to 2d_58
+    21300118: megaman change view to 2d_59
+    21300120: megaman change view to 2d_60
+    21300122: megaman change view to 2d_61
+    21300124: megaman change view to 2d_62
+    21300126: megaman change view to 2d_63
+    21300128: megaman change view to 2d_64
+    21300130: megaman change view to 2d_65
+    21300132: megaman change view to 2d_66
+    21300134: megaman change view to 2d_67
+    21300136: megaman change view to 2d_68
+    21300138: megaman change view to 2d_69
+    21300140: megaman change view to 2d_70
+    21300142: megaman change view to 2d_71
+    21300144: megaman change view to 2d_72
+    21300146: megaman change view to 2d_73
+    21300148: megaman change view to 2d_74
+    21300150: megaman change view to 2d_75
+    21300152: megaman change view to 2d_76
+    21300154: megaman change view to 2d_77
+    21300156: megaman change view to 2d_78
+    21300158: megaman change view to 2d_79
+    21300160: megaman change view to 2d_80
+    21300162: megaman change view to 2d_81
+    21300164: megaman change view to 2d_82
+    21300166: megaman change view to 2d_83
+    21300168: megaman change view to 2d_84
+    21300170: megaman change view to 2d_85
+    21300172: megaman change view to 2d_86
+    21300174: megaman change view to 2d_87
+    21300176: megaman change view to 2d_88
+    21300178: megaman change view to 2d_89
+    21300180: megaman change view to 2d_90
+    21300182: megaman change view to 2d_91
+    21300184: megaman change view to 2d_92
+    21300186: megaman change view to 2d_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: megaman change view to 2d_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 431
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 431
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 431
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 431
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 431
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 431
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 431
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 431
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 431
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 431
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 382
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 382
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 382
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 382
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 382
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 382
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 382
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 382
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 382
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 343
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 343
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 343
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_22
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 343
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 343
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 343
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 343
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_26
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 343
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 343
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_28
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 343
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 343
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 295
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 295
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 295
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 295
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 295
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_36
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 295
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 295
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 295
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_39
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 295
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_40
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 294
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 256
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_42
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 256
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_44
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 256
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_45
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 256
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_46
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 256
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 256
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 256
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 256
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_51
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 209
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_52
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 209
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 209
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 209
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 209
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_56
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 209
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_57
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 209
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_58
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 209
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_59
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 209
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_60
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 209
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 156
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_62
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 156
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 159
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_65
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 156
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_66
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 168
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_67
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 173
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_68
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 157
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 108
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 108
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 107
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_72
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 108
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_73
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_74
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_75
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 108
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_76
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 106
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 108
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_78
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 108
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_79
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 108
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_80
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 108
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_81
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 59
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_82
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 59
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_85
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_86
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_87
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 4
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_88
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_89
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 4
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_90
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_91
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_92
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: megaman change view to 2d_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
